@@ -28,16 +28,20 @@ Here are some ideas to get you started:
 - Move incomplete Test Cases to the backlog at the end of every sprint
 
 ## Git usage strategy
--
+Branches will be set up for each different feature or component of the final product, each branch will be named after the feature or component's name.
+
+Once a feature or component is complete, it will be merged into the main branch.
+Pull requests will be used to review and approve code changes before merging.
+Continuous integration and continuous deployment workflows will be used to automate testing and deployment
 
 ## Change requirement strategy
--
+Identify and document the change request and its impact on the project. All members will review the change request to ensure everyone is clear. Create a user story and issue relating to the new requirements and rank the new issues relative to the ranking of the previous issues.
 
 ## Deployment strategy
--
+The project will be deployed at the end of each sprint. The main branch will be deployed onto the a test staging environment to ensure it is working as intended. Any final changes will be made here and a pull request will be made with the main branch to copy over the changes.
 
 ## Delivery strategy
 -
 
 ## Communications strategy
--
+Group Calls will be done over Microsoft Teams at least weekly and Chats relating to the project will be done on Telegram.
