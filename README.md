@@ -41,7 +41,7 @@ Identify and document the change request and its impact on the project. All memb
 The project will be deployed at the end of each sprint. The main branch will be deployed onto the a test staging environment to ensure it is working as intended. Any final changes will be made here and a pull request will be made with the main branch to copy over the changes.
 
 ## Delivery strategy
--
+Product will be packaged in a .zip file and sent to the stakeholders. Feedback will be collected and hot fixes will be made on a newly created branch (cloned from the main branch) to set up all the changes. A pull request and merge will be made once all the changes are done.
 
 ## Communications strategy
 Group Calls will be done over Microsoft Teams at least weekly and Chats relating to the project will be done on Telegram.
