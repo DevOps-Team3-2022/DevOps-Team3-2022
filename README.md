@@ -16,10 +16,16 @@ Here are some ideas to get you started:
 -->
 
 ## Requirements gathering flow
--
+- Identify and understand project requirements from user/ client (e.g. through interview, survey, etc.)
+- Identify functional and non-functional requirements
+- Compile and create System Requirements for project
+- Create Test Cases and Test Scenarios for project  
 
 ## Backlog issues creation flow
--
+- Establish site for creation of backlog/ issue tracking (e.g. Trello, Jira)
+- Create Test Cases/ User Stories for site based on System Requirements
+- Plan out Test Cases to be completed for every sprint
+- Move incomplete Test Cases to the backlog at the end of every sprint
 
 ## Git usage strategy
 -
