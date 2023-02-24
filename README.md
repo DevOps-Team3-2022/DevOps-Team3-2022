@@ -14,3 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Requirements gathering flow
+-
+
+## Backlog issues creation flow
+-
+
+## Git usage strategy
+-
+
+## Change requirement strategy
+-
+
+## Deployment strategy
+-
+
+## Delivery strategy
+-
+
+## Communications strategy
+-
